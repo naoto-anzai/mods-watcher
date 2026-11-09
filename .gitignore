@@ -1,0 +1,9 @@
+# アプリが自動生成する型定義・設定
+gpui-kit.d.ts
+jsconfig.json
+node_modules/
+.claude/settings.local.json
+# 画面のスクリーンショット
+*.png
+# Herdr に読み直させるための印(実行時に作られる)
+reload-trigger
